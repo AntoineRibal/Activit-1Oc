@@ -1,8 +1,20 @@
 body{
-	color:red;
+	margin: 0;
+	padding:0;
+	color:white;
+	font-weight: Bold;
+	font-family:"Helvetica";
 	background-color:black;
+	text-align:center;
 }
 
 #api{
 	display: none;
+}
+
+.parent{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	margin-top:25%;	
 }
